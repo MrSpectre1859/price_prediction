@@ -1,0 +1,14 @@
+# Dados
+data/raw/
+data/processed/
+
+# Ambiente
+venv/
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
